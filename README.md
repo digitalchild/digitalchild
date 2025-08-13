@@ -15,11 +15,11 @@ I'm a Senior Developer Relations & Education Engineer at [n8n](https://n8n.io). 
 
 ## 🧠 What I Do
 
-- 🔁 Developer Relations & Education @ n8n – creating docs, demos, and tutorials  
+- 🔁 Developer Relations & Education @ n8n – creating courses, demos, and tutorials, education partnerships  
 - 🐾 Indie SaaS: PetFun.ai (AI pet portraits) & 5S Ops (hospitality ops automation)  
 - 🛠️ Full-stack dev: Python, Go, PHP, Bash, JS – Django, FastAPI, Express, WordPress  
 - 🤖 Automation & AI: n8n + Playwright, LoRA pipelines, Stable Diffusion, prompt engineering, NLP  
-- 📦 DevOps: Docker, Nginx, GitHub Actions, scalable infrastructure, terraform  
+- 📦 DevOps: Docker, Nginx, GitHub Actions, scalable infrastructure, terraform, k8n  
 
 ---
 
