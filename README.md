@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jamie Madden
 
-I'm a Senior Developer Relations & Education Engineer at [n8n](https://n8n.io). I help developers automate more and build faster with open-source workflows. I’m also the founder of indie SaaS products, a seasoned full-stack engineer, AI/ML tinkerer, and longtime WordPress user and advocate with 30 years in tech.
+I'm a Senior Developer Relations & Education Engineer at [n8n](https://n8n.io). I help developers automate more and build faster automation workflows. I’m also the founder of indie SaaS products, a seasoned full-stack engineer, AI/ML tinkerer, and longtime WordPress user and advocate with 30 years in tech.
 
 ---
 
