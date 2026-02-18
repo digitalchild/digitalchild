@@ -25,8 +25,6 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 
 ## 🚀 Projects
 
-- **[PetFun.ai](https://petfun.ai/)** – AI-generated pet portraits using custom LoRA pipelines  
-- **[5S Ops](https://5sops.com/)** – Streamlined inventory and operations software for hospitality teams  
 - **[n8n Custom Docker + Playwright](https://github.com/digitalchild/n8n-custom)** – Chromium-ready Docker image for browser automation  
 - **[Easy server scripts](https://github.com/digitalchild/easy-server-scripts)** – Configure and deploy a VPS to host your side projects with these scripts.
 
