@@ -74,6 +74,4 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 
 ---
 
-[Approved n8n PR triage team](https://badges.n8n.io/eda09fd3-33bc-473b-b6b4-349c7bc8ca68#acc.STRFiWuc)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jamie-madden.readme)
