@@ -6,7 +6,7 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 
 ## 🌍 Background
 
-- Australian living in Vietnam with my wife Yen and our dog, Banh Mi  
+- Australian living in Germany with my wife Yen and our dog, Banh Mi  
 - Lifelong passion for automation—from IRC bots and shell scripts to AI pipelines and no-code tools  
 - Built and sold WordPress plugins, including founding WC Vendors Marketplace  
 - Over 20 years in WordPress, with experience training, speaking, and contributing to the ecosystem  
@@ -16,10 +16,9 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 ## 🧠 What I Do
 
 - 🔁 Developer Relations & Education @ n8n – creating courses, demos, and tutorials, education partnerships  
-- 🐾 Indie SaaS: PetFun.ai (AI pet portraits) & 5S Ops (hospitality ops automation)  
-- 🛠️ Full-stack dev: Python, Go, PHP, Bash, JS – Django, FastAPI, Express, WordPress  
-- 🤖 Automation & AI: n8n + Playwright, LoRA pipelines, Stable Diffusion, prompt engineering, NLP  
-- 📦 DevOps: Docker, Nginx, GitHub Actions, scalable infrastructure, terraform, k8n  
+- 🛠️ Full-stack dev: Python, Go, PHP, Bash, JS – Django, FastAPI
+- 🤖 Automation & AI: n8n + Playwright, LoRA pipelines, Stable Diffusion, prompt engineering, NLP, OpenCV  
+- 📦 DevOps: Docker, Nginx, GitHub Actions, scalable infrastructure, terraform, k3s, k8n  
 
 ---
 
@@ -52,8 +51,8 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 |------------------|----------------------|
 | **Languages**     | Python, Go, PHP, Bash, JS/TS |
 | **Frameworks**    | Django, FastAPI, Express, WordPress |
-| **Frontend**      | Tailwind, HTMX, Alpine.js, Flowbite |
-| **AI/ML**         | LoRA, Stable Diffusion, prompt engineering, svms, NLP |
+| **Frontend**      | Tailwind, PostCSS, HTMX, Alpine.js |
+| **AI/ML**         | LoRA, Stable Diffusion, prompt engineering, svms, NLP, OpenCV |
 | **Automation**    | n8n, Playwright  |
 | **DevOps/Infra**  | Docker, Nginx, GitHub Actions, most cloud hosting services |
 | **Databases**     | Postgres, Supabase, SQLite, Redis, MySQL, Pinecone, Planetscale |
