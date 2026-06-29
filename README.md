@@ -51,7 +51,7 @@ I'm a Senior Developer Relations in Education at [n8n](https://n8n.io). I help d
 |------------------|----------------------|
 | **Languages**     | Python, Go, PHP, Bash, JS/TS |
 | **Frameworks**    | Django, FastAPI, Express, WordPress |
-| **Frontend**      | Tailwind, PostCSS, HTMX, Alpine.js |
+| **Frontend**      | Tailwind, Pico CSS, HTMX, Alpine.js |
 | **AI/ML**         | LoRA, Stable Diffusion, prompt engineering, svms, NLP, OpenCV |
 | **Automation**    | n8n, Playwright  |
 | **DevOps/Infra**  | Docker, Nginx, GitHub Actions, most cloud hosting services |
